@@ -3,4 +3,5 @@
 3. MongoDB should be set with localhost:27017 as the default
 4. Create database named "easyinventory"
 5. Go to the project folder Easy_Inventory
-6. run "node Server.js" in a console
+6. run npm init (first time only)
+7. run "node Server.js" in a console
