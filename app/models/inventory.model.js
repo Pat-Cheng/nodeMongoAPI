@@ -6,7 +6,7 @@ const InventorySchema = mongoose.Schema({
     Price: Number,
     QuantityAvailable: Number
 }, {
-    timestampes:true
+    timestamps:true
 });
 
 module.exports = mongoose.model('Inventory',InventorySchema);
